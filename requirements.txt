@@ -1,0 +1,15 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+streamlit
+google-generativeai
+PyPDF2
+faiss-cpu
+Huggingface
+langchain-Huggingface
+huggingface_hub
+transformers
+
+-e.
