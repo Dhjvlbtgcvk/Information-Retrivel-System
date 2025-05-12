@@ -7,9 +7,7 @@ streamlit
 google-generativeai
 PyPDF2
 faiss-cpu
-Huggingface
-langchain-Huggingface
 huggingface_hub
 transformers
-
--e.
+langchain-huggingface  # Use dash, not capitalized
+-e .
